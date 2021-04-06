@@ -1,0 +1,19 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build <your entry file>"
+  },
+  "author": "serg",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "chart.js": "^2.9.4",
+    "chartjs-plugin-datalabels": "^0.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
